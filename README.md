@@ -1,7 +1,15 @@
 # Durbin Watson Test for checking Residual Autocorrelation
+
 ## To view the video
-* [Click here](https://youtu.be/FiBBpscb6es)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=FiBBpscb6es" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/FiBBpscb6es?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
+
 
 [![Durbin Watson Test for checking Residual Autocorrelation](http://img.youtube.com/vi/FiBBpscb6es/0.jpg)](http://www.youtube.com/watch?v=FiBBpscb6es)
 
